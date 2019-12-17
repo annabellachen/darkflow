@@ -1,0 +1,5 @@
+classes=8
+train=//content/dataset/DarknetConf/train.txt
+test=//content/dataset/DarknetConf/test.txt
+names=//content/dataset/DarknetConf/voc.names
+backup=backup
